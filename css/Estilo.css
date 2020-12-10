@@ -1,15 +1,38 @@
 body{
-    color: rgb(168, 50, 80);
-    font-style: oblique;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(69, 80, 180);
+    /*text color*/
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /*font-style: oblique;
+    ?!*/
     font-size: medium;
     text-align: center;
+    background-color: black;
+    list-style-type: square; 
+    padding-left: 0%;
+}
 
+.Hobbies {
+    text-align: left;
+    padding-left: 30%;
 }
 
 header{
-    height: 100px;
-    margin: 40px 100px;
-    padding: 0%;
-    text-align: left;
+    color: rgb(168, 50, 80);
+    /*text color*/
+    /*display: flex;
+    ?!*/
+    /*padding: 3px;
+    ?!*/
+    height: 50px;
+    /*height of background color in header*/
+    margin: 40px 110px 20px 100px;
+    /* top margin, right margin,lower margin, left margin*/
+    padding-left: 0%;
+    /* parece que centra el texto ?!*/
+    text-align: center;
+    font-family: cursive;
+    background-color: rgb(192, 175, 182)
+    
+
+    
 }
